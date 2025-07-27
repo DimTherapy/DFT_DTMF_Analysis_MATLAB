@@ -1,0 +1,9 @@
+*.asv
+*.fig
+*.mat
+*.wav
+*.mp4
+*.tmp
+*.m~
+.DS_Store
+Thumbs.db
