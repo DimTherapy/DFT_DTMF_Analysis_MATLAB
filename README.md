@@ -1,4 +1,4 @@
-# DFT, Signal Spectrum & DTFT Generation in MATLAB
+# DFT, Signal Spectrum & DTMF Generation in MATLAB
 
 This repository implements and analyzes three digital signal processing tasks in MATLAB, as part of the course *Signals and Systems 2 – Lab 3* at HAW Hamburg.
 
